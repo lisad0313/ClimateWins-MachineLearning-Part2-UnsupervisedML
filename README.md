@@ -14,11 +14,13 @@ Although ClimateWins is fictitious, the data used for this project is real, and 
 
 ## Folders
 
-Data Sets
-
 Project Brief
 
 Scripts
+
+Visualizations
+
+(Data Sets not shared here due to file size limitations)
 
 ## Tools
 
