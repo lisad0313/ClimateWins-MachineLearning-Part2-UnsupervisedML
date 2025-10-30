@@ -32,6 +32,6 @@ PowerPoint
 
 ## Report Presentation 
 
-Slides: [Machine Learning and Weather Prediction with ClimateWins](https://drive.google.com/file/d/1Qc8HuxvpNNSTtCTiHApyGiJdv6Z4lzhH/view?usp=drive_link)
+Slides: [Machine Learning and Weather Prediction with ClimateWins](https://drive.google.com/file/d/1Qc8HuxvpNNSTtCTiHApyGiJdv6Z4lzhH/view?usp=sharing)
 
 Video presentation: 
